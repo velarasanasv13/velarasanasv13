@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Velarasan A S!
 
-### 💻 Aspiring Full Stack Developer | Java Developer | Problem Solver
+### 💻 Full Stack Developer | Java Developer | Problem Solver
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C9A7&center=true&vCenter=true&width=650&lines=Java+%7C+Spring+Boot+Developer;Full+Stack+Web+Developer;Building+Real-World+Applications;Always+Learning+New+Technologies" alt="Typing SVG" />
@@ -134,21 +134,7 @@ Kingston Engineering College | 2022–2026
 
 ---
 
-## 📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=velarasanasv13&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Statistics"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=velarasanasv13&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=velarasanasv13&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
-</p>
-
----
 
 ## 🤝 Let's Connect!
 
